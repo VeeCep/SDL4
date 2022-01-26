@@ -1,0 +1,65 @@
+The Business Environment
+
+Risks can come from anywhere, and any project team must be ready for them. There are many potential risks that can occur during the project life cycle, for example a 
+change in the budget of the project.
+
+There are tools that can help identify risks:
+- Documentation
+- Information gathering techniques
+- Brainstorming
+- Interviewing
+- Root cause analysis
+- Checklist analysis
+- Assumption analysis
+- Diagramming techniques
+- Cause & effect diagrams
+- System or process flow charts
+- Influence diagrams
+- SWOT analysis (Strenght, Weakness, Opportunity, Threat)
+- Expert judgement
+
+There are four strategies to use:
+- Avoid Risk
+- Control/Mitigate Risk
+- Accept Risk
+- Transfer Risk
+
+Change managing effectively is a key challenge in any project; especially software development. You can mitigate challenges by adding modularity in your projects. But this also
+brings a level of complexity to the software which must be managed effectively.
+
+Costing is subject to change during a projects lifecycle, there are base costs that have two pairs of attributes to a project.
+Base costs:
+- Resources
+- Accommodation & infastructure
+- Consumables
+- Expenses
+- Capital items
+
+Attributes:
+- Direct & indirect
+- Fixed & variable
+
+There is a mathematical expression to predict the cost of a project: 
+
+Effort = A x Sizeᵇ x M
+
+A - is a constant factor that depends on local organisational practices and type of software that is developed.
+Size - may either be the code size or the functionality of software expressed in function or object points.
+ᵇ - is associated with the size estimate, expresses the non-linearity of costs with project size. The value usually lies between 1 and 1.5.
+M - is a multiplier made by combining process, product and development attributes, such as the dependability requirments for th software and experinece of the development team.
+
+All algorithmic models have the difficulties:
+- It's difficult to estimate the size in the early stage of development.
+- The estimates of the factors contributing to B and M are subjective.
+- The number of lines of source code in software is the basic software metric used in many algorithmic cost models.
+- The code size can be estimated by previous projects.
+- The programming language used for system development also affects the number of lines of code to be implemented.
+
+Controlling the cost of a project is of major importance, techniques for cost control include:
+- Planning the project budget
+- Keeping track of project costs
+- Effective time management
+- Project change control
+- Use of earned value
+
+Luke Elllwood.
