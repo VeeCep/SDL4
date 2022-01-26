@@ -1,0 +1,1 @@
+A programming methodology is concerned with: (1) the analysis of a problem by developing algorithms based on modern programming techniques, (2) designing programs in appropriate languages and (3) implementation on a suitable platform.
